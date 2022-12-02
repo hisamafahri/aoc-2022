@@ -1,3 +1,3 @@
-import { day2task1 } from "./day2/task1";
+import { day2task2 } from "./day2/task2";
 
-day2task1()
+day2task2()
